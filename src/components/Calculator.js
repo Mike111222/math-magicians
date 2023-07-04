@@ -3,75 +3,75 @@ import './Calculator.css';
 
 function Calculator() {
   return (
-    <div className="container mt-4">
-      <div className="row">
-        <div className="col-12 text-right bg-secondary mt-3 screen">0</div>
+    <div className="calculator">
+      <div className="row-div">
+        <div className="screen">0</div>
       </div>
-      <div className="row no-gutters">
+      <div className="row-div">
         <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">AC</button>
+          <button type="button" className="button btn-clear">AC</button>
         </div>
         <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">+/-</button>
+          <button type="button" className="button btn-clear">+/-</button>
         </div>
         <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">%</button>
+          <button type="button" className="button btn-clear">%</button>
         </div>
         <div className="col-3">
-          <button type="button" className="btn btn-warning btn-xxl btn-block">÷</button>
-        </div>
-      </div>
-      <div className="row no-gutters">
-        <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">7</button>
-        </div>
-        <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">8</button>
-        </div>
-        <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">9</button>
-        </div>
-        <div className="col-3">
-          <button type="button" className="btn btn-warning btn-xxl btn-block">x</button>
+          <button type="button" className="button btn-operator">÷</button>
         </div>
       </div>
-      <div className="row no-gutters">
+      <div className="row-div">
         <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">4</button>
+          <button type="button" className="button">7</button>
         </div>
         <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">5</button>
+          <button type="button" className="button">8</button>
         </div>
         <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">6</button>
+          <button type="button" className="button">9</button>
         </div>
         <div className="col-3">
-          <button type="button" className="btn btn-warning btn-xxl btn-block">-</button>
-        </div>
-      </div>
-      <div className="row no-gutters">
-        <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">1</button>
-        </div>
-        <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">2</button>
-        </div>
-        <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">3</button>
-        </div>
-        <div className="col-3">
-          <button type="button" className="btn btn-warning btn-xxl btn-block">+</button>
+          <button type="button" className="button btn-operator">x</button>
         </div>
       </div>
-      <div className="row no-gutters">
+      <div className="row-div">
+        <div className="col-3">
+          <button type="button" className="button">4</button>
+        </div>
+        <div className="col-3">
+          <button type="button" className="button">5</button>
+        </div>
+        <div className="col-3">
+          <button type="button" className="button">6</button>
+        </div>
+        <div className="col-3">
+          <button type="button" className="button btn-operator">-</button>
+        </div>
+      </div>
+      <div className="row-div">
+        <div className="col-3">
+          <button type="button" className="button">1</button>
+        </div>
+        <div className="col-3">
+          <button type="button" className="button">2</button>
+        </div>
+        <div className="col-3">
+          <button type="button" className="button">3</button>
+        </div>
+        <div className="col-3">
+          <button type="button" className="button btn-operator">+</button>
+        </div>
+      </div>
+      <div className="row-div">
         <div className="col-6">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">0</button>
+          <button type="button" className="button button-zero">0</button>
         </div>
         <div className="col-3">
-          <button type="button" className="btn btn-secondary btn-xxl btn-block btn-offwhite">.</button>
+          <button type="button" className="button">.</button>
         </div>
         <div className="col-3">
-          <button type="button" className="btn btn-warning btn-xxl btn-block">=</button>
+          <button type="button" className="button btn-operator">=</button>
         </div>
       </div>
     </div>
