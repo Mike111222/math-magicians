@@ -1,0 +1,20 @@
+.btn-xxl {
+  font-size: 2.5rem !important;
+  padding: 1.25rem 2rem;
+}
+
+.btn-offwhite {
+  background-color: #f8f8f8 !important;
+  color: #333 !important;
+}
+
+.no-gutters [class^="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.screen {
+  font-size: 2rem !important;
+  color: #f8f8f8;
+  height: 4rem;
+}
