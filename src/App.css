@@ -2,3 +2,10 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.app {
+  display: flex;
+  flex-direction: row;
+  gap: 10rem;
+  margin: 10rem;
+}
