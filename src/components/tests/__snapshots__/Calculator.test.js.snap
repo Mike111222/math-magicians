@@ -1,0 +1,229 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator Page renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="calculator"
+  >
+    <div
+      class="row-div"
+    >
+      <div
+        class="screen"
+      >
+        0
+      </div>
+    </div>
+    <div
+      class="row-div"
+    >
+      <div
+        class="col-3"
+      >
+        <button
+          class="button btn-clear"
+          type="button"
+        >
+          AC
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button btn-clear"
+          type="button"
+        >
+          +/-
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button btn-clear"
+          type="button"
+        >
+          %
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button btn-operator"
+          type="button"
+        >
+          ÷
+        </button>
+      </div>
+    </div>
+    <div
+      class="row-div"
+    >
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          7
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          8
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          9
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button btn-operator"
+          type="button"
+        >
+          x
+        </button>
+      </div>
+    </div>
+    <div
+      class="row-div"
+    >
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          4
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          5
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          6
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button btn-operator"
+          type="button"
+        >
+          -
+        </button>
+      </div>
+    </div>
+    <div
+      class="row-div"
+    >
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          1
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          2
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          3
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button btn-operator"
+          type="button"
+        >
+          +
+        </button>
+      </div>
+    </div>
+    <div
+      class="row-div"
+    >
+      <div
+        class="col-6"
+      >
+        <button
+          class="button button-zero"
+          type="button"
+        >
+          0
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button "
+          type="button"
+        >
+          .
+        </button>
+      </div>
+      <div
+        class="col-3"
+      >
+        <button
+          class="button btn-operator"
+          type="button"
+        >
+          =
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
