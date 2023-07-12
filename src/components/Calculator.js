@@ -40,7 +40,7 @@ function Calculator() {
   return (
     <div className="calculator">
       <div className="row-div">
-        <div className="screen">{displayValue}</div>
+        <div className="screen" data-testid="screen">{displayValue}</div>
       </div>
       <div className="row-div">
         <div className="col-3">

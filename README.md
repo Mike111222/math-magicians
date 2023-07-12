@@ -1,4 +1,4 @@
-# mymathmagiciansapp
+# math-magicians
 <a name="readme-top"></a>
 
 <div align="center">
@@ -14,13 +14,13 @@
 
 # 📗 Table of Contents
 
-- [mymathmagiciansapp](#mymathmagiciansapp)
+- [math-magicians](#math-magicians)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[mymathmagiciansapp\] ](#-mymathmagiciansapp-)
+- [📖 \[math-magicians\] ](#-math-magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
+  <!-- - [🚀 Live Demo ](#-live-demo-) -->
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -38,7 +38,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [mymathmagiciansapp] <a name="about-project"></a>
+# 📖 [math-magicians] <a name="about-project"></a>
 
 **["Math Magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote. It is built using Create React App (CRA). It is a SPA web app with three sub pages..]**
 
@@ -77,14 +77,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Will Display Calculator]**
-- **[Will Allow to perform Mathematical Operations]**
+- **[Displays Calculator]**
+- **[Allows to perform Mathematical Operations]**
 - **[Single Page Application SPA with Three sub pages]**
-- **[Users can click on Navbar to go to sub pages]**
-- **[All opeations will be carried out using APIs.]**
+- **[Users can click on Navbar to go to 3 sub pages]**
+- **[All opeations are carried out using APIs.]**
 - **[Webpack is managing all the dependencies and auto loading in browser]**
 - **[App is created by Create-React-App (CRA)]**
-- **[Jest Tests and Coverage flags will be implemented to test the App]**
+- **[Jest Tests and React Testing Library are implemented to test the App]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,12 +124,12 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-https://github.com/Mike111222/mymathmagiciansapp
+https://github.com/Mike111222/math-magicians
 ```
 
 - Navigate to the location of the folder in your machine:
 
-**``you@your-Pc-name:~$ cd mymathmagiciansapp``**
+**``you@your-Pc-name:~$ cd math-magicians``**
 
 ### Install
 
