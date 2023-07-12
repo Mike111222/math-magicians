@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly and mathes the snapshot 1`] = `
+<DocumentFragment>
+   
+  <nav
+    class="navBar"
+  >
+    <h1
+      class="navHeading"
+    >
+      Math Magicians
+    </h1>
+    <ul
+      class="navLinks"
+    >
+      <li>
+        <a
+          href="#/"
+        >
+          <span>
+            Home
+          </span>
+        </a>
+      </li>
+      <li>
+        <a
+          href="#/calculator"
+        >
+          <span>
+            Calculator
+          </span>
+        </a>
+      </li>
+      <li>
+        <a
+          href="#/quote"
+        >
+          <span>
+            Quote
+          </span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+</DocumentFragment>
+`;
