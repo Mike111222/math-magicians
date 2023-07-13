@@ -94,7 +94,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Math-Magicians Live Demo Link] [https://math-magicians-jj1m.onrender.com]
+- [Math-Magicians Live Demo Render Link](https://math-magicians-jj1m.onrender.com)
 
 
 
